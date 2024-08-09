@@ -1,4 +1,4 @@
-# Fooocus 简体中文语言文件与多选项启动脚本
+# Fooocus 简体中文语言文件 与 多选项启动脚本
 ### 更新适配 Fooocus 2.5.3 版本 中文语言文件。
 ![interface](https://github.com/DawnorC/Fooocus_CN/blob/main/screenshot/interface1.png)  
 ![interface](https://github.com/DawnorC/Fooocus_CN/blob/main/screenshot/interface2.png)  
