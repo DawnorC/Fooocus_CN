@@ -4,7 +4,8 @@
 
 
 
-#以下是原仓库自述
+# 以下是原仓库自述
+
 ## Fooocus 简体中文语言文件  
 2024年6月15日更新，适配Fooocus 2.4.3版。  
 ![interface](https://github.com/tek2y/Fooocus-cnlang/blob/main/screenshot/interface.png)  
