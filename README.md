@@ -1,6 +1,7 @@
 # Fooocus 简体中文语言文件  
 更新适配Fooocus 2.5.3版本中文语言文件。
-
+![interface](https://github.com/DawnorC/Fooocus_CN/blob/main/screenshot/interface1.png)  
+![interface](https://github.com/DawnorC/Fooocus_CN/blob/main/screenshot/interface2.png)  
 
 
 
